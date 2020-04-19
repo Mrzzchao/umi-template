@@ -11,7 +11,7 @@ export default defineConfig({
   dva: {
     hmr: true,
   },
-  // routes,
+  routes,
   locale: {
     default: 'zh-CN',
     baseNavigator: true,
